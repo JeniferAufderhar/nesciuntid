@@ -1,0 +1,36 @@
+{
+  "name": "nesciuntid",
+  "version": "1.0.0",
+  "description": "ERC-20 token ABI",
+  "keywords": [
+    "beatae",
+    "nulla",
+    "erc",
+    "temporibus",
+    "occaecati",
+    "et",
+    "json",
+    "provident",
+    "token",
+    "web3"
+  ],
+  "homepage": "https://github.com/JeniferAufderhar/nesciuntid.git",
+  "bugs": {
+    "url": "https://github.com/JeniferAufderhar/nesciuntid.git/issues"
+  },
+  "license": "MIT",
+  "author": "LaviniaKunde",
+  "files": [
+    "src/abi.json"
+  ],
+  "main": "src/abi.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeniferAufderhar/nesciuntid.git"
+  },
+  "devDependencies": {
+    "check-tag-matches": "^1.0.0",
+    "husky": "^4.3.0",
+    "jsonlint": "^1.6.3"
+  }
+}
